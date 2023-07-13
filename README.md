@@ -23,10 +23,12 @@ This extension was created to address the needs of individuals who tend to keep 
 ## Usage
 
 1. Click on the extension icon in the Chrome toolbar to open the URL Tracker.
-2. The current tab URL will be automatically captured and displayed in the list.
-3. To manually save a URL, enter it in the input space and click the **SAVE INPUT** button.
-4. To save the URL of the current tab, click the **SAVE TAB** button.
-5. To delete all saved URLs, double-click the **DELETE ALL** button.
-6. You can click on any URL in the list to open it in a new tab.
+![Step 1](part1.png)
+2. To manually save a URL, enter it in the input space and click the **SAVE INPUT** button.
+![Step 2](part2.png)
+3. To save the URL of the current tab, click the **SAVE TAB** button.
+![Step 3](part3.png)
+4. To delete all saved URLs, double-click the **DELETE ALL** button.
+5. You can click on any URL in the list to open it in a new tab.
 
 
