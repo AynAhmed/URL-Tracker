@@ -27,7 +27,7 @@ This extension was created to address the needs of individuals who tend to keep 
 2. To manually save a URL, enter it in the input space and click the **SAVE INPUT** button.
 ![Step 2](part3.png)
 3. To save the URL of the current tab, click the **SAVE TAB** button.
-![Step 3](part3.png)
+![Step 3](part4.png)
 4. To delete all saved URLs, double-click the **DELETE ALL** button.
 5. You can click on any URL in the list to open it in a new tab.
 
