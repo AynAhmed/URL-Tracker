@@ -9,23 +9,23 @@ input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    border: 1px solid #41938c;
+    border: 1px solid black;
     margin-bottom: 4px;
     border-radius: 5px;
 }
 
 button {
-    background: #41938c;
+    background: black;
     color: white;
     padding: 10px 20px;
-    border: 1px solid #41938c;
+    border: 1px solid black;
     font-weight: bold;
     border-radius: 5px;
 }
 
 #delete-btn {
-    background: white;
-    color: #41938c;
+    background: rgb(201, 201, 201);
+    color: black;
     border-radius: 5px;
 }
 
@@ -39,7 +39,3 @@ li {
     margin-top: 5px;
 }
 
-.a {
-  color:  #41938c;
-    text-decoration: none;
-}
